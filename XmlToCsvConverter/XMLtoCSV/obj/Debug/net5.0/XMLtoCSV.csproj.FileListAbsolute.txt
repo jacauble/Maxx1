@@ -1,0 +1,15 @@
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/bin/Debug/net5.0/XMLtoCSV.deps.json
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/bin/Debug/net5.0/XMLtoCSV.runtimeconfig.json
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/bin/Debug/net5.0/XMLtoCSV.runtimeconfig.dev.json
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/bin/Debug/net5.0/XMLtoCSV.dll
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/bin/Debug/net5.0/ref/XMLtoCSV.dll
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/bin/Debug/net5.0/XMLtoCSV.pdb
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/obj/Debug/net5.0/XMLtoCSV.csproj.AssemblyReference.cache
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/obj/Debug/net5.0/XMLtoCSV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/obj/Debug/net5.0/XMLtoCSV.AssemblyInfoInputs.cache
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/obj/Debug/net5.0/XMLtoCSV.AssemblyInfo.cs
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/obj/Debug/net5.0/XMLtoCSV.csproj.CoreCompileInputs.cache
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/obj/Debug/net5.0/XMLtoCSV.dll
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/obj/Debug/net5.0/ref/XMLtoCSV.dll
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/obj/Debug/net5.0/XMLtoCSV.pdb
+/Users/jon/Desktop/c#-apps/XMLtoCSV/XMLtoCSV/obj/Debug/net5.0/XMLtoCSV.genruntimeconfig.cache
