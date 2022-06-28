@@ -1,0 +1,15 @@
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/bin/Debug/net5.0/RomanNumerals.deps.json
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/bin/Debug/net5.0/RomanNumerals.runtimeconfig.json
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/bin/Debug/net5.0/RomanNumerals.runtimeconfig.dev.json
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/bin/Debug/net5.0/RomanNumerals.dll
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/bin/Debug/net5.0/ref/RomanNumerals.dll
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/bin/Debug/net5.0/RomanNumerals.pdb
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/obj/Debug/net5.0/RomanNumerals.csproj.AssemblyReference.cache
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/obj/Debug/net5.0/RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/obj/Debug/net5.0/RomanNumerals.AssemblyInfoInputs.cache
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/obj/Debug/net5.0/RomanNumerals.AssemblyInfo.cs
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/obj/Debug/net5.0/RomanNumerals.csproj.CoreCompileInputs.cache
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/obj/Debug/net5.0/RomanNumerals.dll
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/obj/Debug/net5.0/ref/RomanNumerals.dll
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/obj/Debug/net5.0/RomanNumerals.pdb
+/Users/jon/Desktop/c#-apps/RomanNumerals/RomanNumerals/obj/Debug/net5.0/RomanNumerals.genruntimeconfig.cache
