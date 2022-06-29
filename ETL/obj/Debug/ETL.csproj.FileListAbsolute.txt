@@ -1,0 +1,15 @@
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/bin/Debug/ETL.exe.config
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/bin/Debug/ETL.exe
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/bin/Debug/ETL.pdb
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/bin/Debug/EntityFramework.dll
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/bin/Debug/EntityFramework.SqlServer.dll
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/bin/Debug/Purchasing.dll
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/bin/Debug/Purchasing.pdb
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/bin/Debug/Purchasing.dll.config
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/bin/Debug/EntityFramework.xml
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/bin/Debug/EntityFramework.SqlServer.xml
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/obj/Debug/ETL.csproj.AssemblyReference.cache
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/obj/Debug/ETL.csproj.CoreCompileInputs.cache
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/obj/Debug/ETL.csproj.CopyComplete
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/obj/Debug/ETL.exe
+/Users/jon/Desktop/REYNOLDS/ITP236/semester-projects-jcauble0001/ETL/obj/Debug/ETL.pdb

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9ADD6178-2F95-4C5F-A0CB-77743946C299}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebSiteActivity.xml">
+    <Files>
+      <File FileName="TransformedData.cs" Line="1" Column="1" />
+      <File FileName="DataSource.cs" Line="1" Column="1" />
+      <File FileName="PurchIndClk.cs" Line="1" Column="1" />
+      <File FileName="WebSiteActivity.xml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ETL" expanded="True">
+            <Node name="ETL" expanded="True">
+              <Node name="WebSiteActivity.xml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ETL PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
