@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CE77358A-CA9A-48CE-9DF5-EAA29A96FC82}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rainbowizer/Rainbowizer.cs">
+    <Files>
+      <File FileName="Rainbowizer/Rainbowizer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Rainbowizer" expanded="True">
+            <Node name="Rainbowizer" expanded="True">
+              <Node name="Rainbowizer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Rainbowizer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

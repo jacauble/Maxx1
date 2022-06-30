@@ -1,0 +1,15 @@
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/bin/Debug/net5.0/Rainbowizer.deps.json
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/bin/Debug/net5.0/Rainbowizer.runtimeconfig.json
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/bin/Debug/net5.0/Rainbowizer.runtimeconfig.dev.json
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/bin/Debug/net5.0/Rainbowizer.dll
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/bin/Debug/net5.0/ref/Rainbowizer.dll
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/bin/Debug/net5.0/Rainbowizer.pdb
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/obj/Debug/net5.0/Rainbowizer.csproj.AssemblyReference.cache
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/obj/Debug/net5.0/Rainbowizer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/obj/Debug/net5.0/Rainbowizer.AssemblyInfoInputs.cache
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/obj/Debug/net5.0/Rainbowizer.AssemblyInfo.cs
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/obj/Debug/net5.0/Rainbowizer.csproj.CoreCompileInputs.cache
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/obj/Debug/net5.0/Rainbowizer.dll
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/obj/Debug/net5.0/ref/Rainbowizer.dll
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/obj/Debug/net5.0/Rainbowizer.pdb
+/Users/jon/Desktop/c#-apps/Rainbowizer/Rainbowizer/obj/Debug/net5.0/Rainbowizer.genruntimeconfig.cache

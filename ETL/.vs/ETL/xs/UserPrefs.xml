@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{9ADD6178-2F95-4C5F-A0CB-77743946C299}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebSiteActivity.xml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PurchIndClk.cs">
     <Files>
       <File FileName="TransformedData.cs" Line="1" Column="1" />
-      <File FileName="DataSource.cs" Line="1" Column="1" />
+      <File FileName="DataSource.cs" />
       <File FileName="PurchIndClk.cs" Line="1" Column="1" />
       <File FileName="WebSiteActivity.xml" Line="1" Column="1" />
     </Files>
@@ -11,7 +11,7 @@
         <State name="__root__">
           <Node name="ETL" expanded="True">
             <Node name="ETL" expanded="True">
-              <Node name="WebSiteActivity.xml" selected="True" />
+              <Node name="PurchIndClk.cs" selected="True" />
             </Node>
           </Node>
         </State>
